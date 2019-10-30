@@ -1,0 +1,17 @@
+~~~~~~~~~~~~~~~~~~~~~
+   BONZI NO MORE
+      V.0.0.1
+   By NorkenNort
+~~~~~~~~~~~~~~~~~~~~~
+
+Thank you!
+
+Thank you for downloading BONZI NO MORE
+this .bat file will delete all of bonzi's
+files.
+NOTE
+This .bat files keeps bonzi's directory if you want to reinstall
+it for testing proposes.
+It keeps the configuration.
+
+THANK YOU!
