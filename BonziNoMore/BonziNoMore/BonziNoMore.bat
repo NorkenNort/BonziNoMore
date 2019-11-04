@@ -7,3 +7,6 @@ del *
 cd C:\Program Files (x86)\BonziBuddy432/bonziBDY_4.exe
 del *
 echo Bonzi has been deleted!
+echo Thank you for using BonziNoMore!
+pause
+start https://github.com/NorkenNort/BonziNoMore
