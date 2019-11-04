@@ -1,6 +1,6 @@
 ~~~~~~~~~~~~~~~~~~~~~
    BONZI NO MORE
-      V.0.0.1
+      V.0.0.2
    By NorkenNort
 ~~~~~~~~~~~~~~~~~~~~~
 
@@ -13,5 +13,9 @@ NOTE
 This .bat files keeps bonzi's directory if you want to reinstall
 it for testing proposes.
 It keeps the configuration.
+
+Fixes:
+-Fixed Some Minor Bugs and errors in the .bat file
+-Added at end of the use of BonziNoMore a command which opens the github page
 
 THANK YOU!
